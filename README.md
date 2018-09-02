@@ -18,6 +18,10 @@ IT books, mainly in English
 - [Functional Programming in Java](https://pan.baidu.com/s/1qYNuhqc)
 - [Java 9 Concurrency Cookbook, 2nd Edition](https://pan.baidu.com/s/1dFISSX7)
 
+## C && C++
+- [Algorithms in C, Parts 1-4, 3rd Edition](https://pan.baidu.com/s/1dflxdkkceZgxu-q9BRTzRA)
+- [Algorithms in C, Part 5, 3rd Edition](https://pan.baidu.com/s/1ZiNECKR_YoJ_gKe3roCG0Q)
+
 ## Datebase
 - [Seven Databases in Seven Weeks, 2nd Edition](https://pan.baidu.com/s/1BdAAFbjX41O_LevXYCWSZg)
 - [Mastering PostgreSQL 10](https://pan.baidu.com/s/1DtUQJQ7ND7cJbB61jsiu7Q)
