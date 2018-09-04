@@ -9,6 +9,12 @@ IT books, mainly in English
 - [Node.js 8 the Right Way](https://pan.baidu.com/s/1-I0pg0xUW0aGaWqGuFDy9Q)
 - [Cross-Platform Desktop Applications](https://pan.baidu.com/s/17fvOsc5TvWQeodjkpP0DZA)
 - [CSS Pocket Reference, 5th Edition](https://pan.baidu.com/s/1pSgRIZYlR0V7RhAZbcOQXw)
+- [Progressive Web Apps](https://pan.baidu.com/s/1iQYD4B5IRJ-aPx9cGce1zg)
+- [D3.js in Action, 2nd Edition](https://pan.baidu.com/s/1L-oY38fbzADAgJCwjqiP5g)
+- [CSS in Depth](https://pan.baidu.com/s/11sYq0jTSozTRuk7ujTrTvg)
+- [Angular in Action](https://pan.baidu.com/s/1_-UtdAitNJiIfnsQQyPNPw)
+- [Switching to Angular, 3rd Edition](https://pan.baidu.com/s/126Ym4P1t4NRrMJ1Do-HzqQ)
+- [Vue.js: Up and Running](https://pan.baidu.com/s/1_RadmXA_w8pU5097GYxH5g)
 
 
 ## Java
@@ -21,6 +27,13 @@ IT books, mainly in English
 ## C && C++
 - [Algorithms in C, Parts 1-4, 3rd Edition](https://pan.baidu.com/s/1dflxdkkceZgxu-q9BRTzRA)
 - [Algorithms in C, Part 5, 3rd Edition](https://pan.baidu.com/s/1ZiNECKR_YoJ_gKe3roCG0Q)
+
+## .NET
+- [.NET Core in Action](https://pan.baidu.com/s/1KBKNsWFREUJ7LPhJzsj8zA)
+- [Microservices in .NET Core](https://pan.baidu.com/s/12timW5CkQflj4J6fAk0o3g)
+- [Professional C# 7 and .NET Core 2.0](https://pan.baidu.com/s/16ypopKogc1nyjAP87MxVZg)
+- [ASP.NET Core in Action](https://pan.baidu.com/s/1bdTukzrFmU1KcbU99hj67Q)
+- [Concurrency in .NET](https://pan.baidu.com/s/145VoPeJ1QHxdLpTs5ozMyA)
 
 ## Datebase
 - [Seven Databases in Seven Weeks, 2nd Edition](https://pan.baidu.com/s/1BdAAFbjX41O_LevXYCWSZg)
