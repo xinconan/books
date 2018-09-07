@@ -15,6 +15,8 @@ IT books, mainly in English
 - [Angular in Action](https://pan.baidu.com/s/1_-UtdAitNJiIfnsQQyPNPw)
 - [Switching to Angular, 3rd Edition](https://pan.baidu.com/s/126Ym4P1t4NRrMJ1Do-HzqQ)
 - [Vue.js: Up and Running](https://pan.baidu.com/s/1_RadmXA_w8pU5097GYxH5g)
+- [React 16 Essentials, 2nd Edition](https://pan.baidu.com/s/1d8EFAQ)
+- [React Native Cookbook【Epub】](https://pan.baidu.com/s/1raqmg7y)
 
 
 ## Java
@@ -27,6 +29,8 @@ IT books, mainly in English
 ## C && C++
 - [Algorithms in C, Parts 1-4, 3rd Edition](https://pan.baidu.com/s/1dflxdkkceZgxu-q9BRTzRA)
 - [Algorithms in C, Part 5, 3rd Edition](https://pan.baidu.com/s/1ZiNECKR_YoJ_gKe3roCG0Q)
+- [Discovering Modern C++](https://pan.baidu.com/s/1J0vtk_CRP_fhQrXmwidy5g)
+- [Professional C++, 4th Edition](https://pan.baidu.com/s/1elN9fW2F58_Z_7TaxoLI8A)
 
 ## .NET
 - [.NET Core in Action](https://pan.baidu.com/s/1KBKNsWFREUJ7LPhJzsj8zA)
