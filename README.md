@@ -12,6 +12,7 @@ IT books, mainly in English
 - [Progressive Web Apps](https://pan.baidu.com/s/1iQYD4B5IRJ-aPx9cGce1zg)
 - [D3.js in Action, 2nd Edition](https://pan.baidu.com/s/1L-oY38fbzADAgJCwjqiP5g)
 - [CSS in Depth](https://pan.baidu.com/s/11sYq0jTSozTRuk7ujTrTvg)
+- [CSS: The Definitive Guide, 4th Edition](https://pan.baidu.com/s/1bpsCmbP)
 - [Angular in Action](https://pan.baidu.com/s/1_-UtdAitNJiIfnsQQyPNPw)
 - [Switching to Angular, 3rd Edition](https://pan.baidu.com/s/126Ym4P1t4NRrMJ1Do-HzqQ)
 - [Vue.js: Up and Running](https://pan.baidu.com/s/1_RadmXA_w8pU5097GYxH5g)
@@ -38,6 +39,15 @@ IT books, mainly in English
 - [Professional C# 7 and .NET Core 2.0](https://pan.baidu.com/s/16ypopKogc1nyjAP87MxVZg)
 - [ASP.NET Core in Action](https://pan.baidu.com/s/1bdTukzrFmU1KcbU99hj67Q)
 - [Concurrency in .NET](https://pan.baidu.com/s/145VoPeJ1QHxdLpTs5ozMyA)
+
+
+## Android
+- [GraphQL and Android, Version 0.3](https://pan.baidu.com/s/1_BgDR3sXRyNFQo4YX2xTQA)
+- [Exploring Android, Version 0.3](https://pan.baidu.com/s/1ySMvH-7eotGfpDl-bpZetg)
+- [Android’s Architecture Components, Version 0.10](https://pan.baidu.com/s/1U-Bk28YShFzksRC2uJ6i4g)
+- [The Busy Coder’s Guide to Android Development, Version 8.13](https://pan.baidu.com/s/1V7ALRrtpxZOhnOyHLEAF2A)
+- [Android Programming: The Big Nerd Ranch Guide, 3rd Edition](https://pan.baidu.com/s/1qVhLqSDqhYf5_3HdAttd4A)
+- [Head First Android Development, 2nd Edition](https://pan.baidu.com/s/1pLZa4Kr)
 
 ## Datebase
 - [Seven Databases in Seven Weeks, 2nd Edition](https://pan.baidu.com/s/1BdAAFbjX41O_LevXYCWSZg)
