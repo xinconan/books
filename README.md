@@ -2,6 +2,8 @@
 IT books, mainly in English
 
 ## Front-End
+- [Rediscovering JavaScript](https://pan.baidu.com/s/1DUnBGCKoY1xfQUMXJtVJ5g)
+- [CSS Floating【Epub】](https://pan.baidu.com/s/1l_kjc-SjAhWJZ9aSJryiFQ)
 - [Learning Web Design, 5th Edition](https://pan.baidu.com/s/1tR_b4hRLsC6te3sYpvHb1g)
 - [ng-book: The Complete Book on Angular 6, r68](https://pan.baidu.com/s/1KYjF8LQMBEEqYQlLT8rF5Q)
 - [Simplifying JavaScript](https://pan.baidu.com/s/1T6NuppjGEVntVqvDeA5caQ)
