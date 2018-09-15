@@ -2,6 +2,10 @@
 IT books, mainly in English
 
 ## Front-End
+- [Fullstack Vue](https://pan.baidu.com/s/1c4fvMoYp9W2A3GIjasBI-g)
+- [Fullstack React Native](https://pan.baidu.com/s/1pH7fCLC9IYPDDQq_0ZeJRQ)
+- [Mastering Modular JavaScript](https://pan.baidu.com/s/1gkfLC1IAD64GSbAM6iQhyA)
+- [Designing Web APIs](https://pan.baidu.com/s/1ekerm-cpTGZRGWnD7WKnxg)
 - [Rediscovering JavaScript](https://pan.baidu.com/s/1DUnBGCKoY1xfQUMXJtVJ5g)
 - [CSS Floating【Epub】](https://pan.baidu.com/s/1l_kjc-SjAhWJZ9aSJryiFQ)
 - [Learning Web Design, 5th Edition](https://pan.baidu.com/s/1tR_b4hRLsC6te3sYpvHb1g)
