@@ -59,3 +59,8 @@ IT books, mainly in English
 - [Seven Databases in Seven Weeks, 2nd Edition](https://pan.baidu.com/s/1BdAAFbjX41O_LevXYCWSZg)
 - [Mastering PostgreSQL 10](https://pan.baidu.com/s/1DtUQJQ7ND7cJbB61jsiu7Q)
 - [MySQL and JSON](https://pan.baidu.com/s/1lt1yHCeFyhdo35Gft4D8wQ)
+
+
+## Other
+- [Amazon Web Services in Action, 2nd Edition](https://pan.baidu.com/s/1iNfwqG3y5-jmQtk_Tnvr5Q)
+
