@@ -34,6 +34,7 @@ IT books, mainly in English
 - [Java 9 Concurrency Cookbook, 2nd Edition](https://pan.baidu.com/s/1dFISSX7)
 
 ## C && C++
+- [A Tour of C++, 2nd Edition【Epub】](https://pan.baidu.com/s/1cCMT2M6PVqVT4Ltb836S2g)
 - [Algorithms in C, Parts 1-4, 3rd Edition](https://pan.baidu.com/s/1dflxdkkceZgxu-q9BRTzRA)
 - [Algorithms in C, Part 5, 3rd Edition](https://pan.baidu.com/s/1ZiNECKR_YoJ_gKe3roCG0Q)
 - [Discovering Modern C++](https://pan.baidu.com/s/1J0vtk_CRP_fhQrXmwidy5g)
@@ -54,6 +55,11 @@ IT books, mainly in English
 - [The Busy Coder’s Guide to Android Development, Version 8.13](https://pan.baidu.com/s/1V7ALRrtpxZOhnOyHLEAF2A)
 - [Android Programming: The Big Nerd Ranch Guide, 3rd Edition](https://pan.baidu.com/s/1qVhLqSDqhYf5_3HdAttd4A)
 - [Head First Android Development, 2nd Edition](https://pan.baidu.com/s/1pLZa4Kr)
+
+## ios
+- [Data Structures and Algorithms in Swift](https://pan.baidu.com/s/1ctBfVEiHMgUJO1PB599eww)
+- [Programming iOS 11](https://pan.baidu.com/s/1o7UChMq)
+- [iOS 11 Swift Programming Cookbook](https://pan.baidu.com/s/1c19rLqK)
 
 ## Datebase
 - [Seven Databases in Seven Weeks, 2nd Edition](https://pan.baidu.com/s/1BdAAFbjX41O_LevXYCWSZg)
