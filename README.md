@@ -24,9 +24,11 @@ IT books, mainly in English
 - [Vue.js: Up and Running](https://pan.baidu.com/s/1_RadmXA_w8pU5097GYxH5g)
 - [React 16 Essentials, 2nd Edition](https://pan.baidu.com/s/1d8EFAQ)
 - [React Native Cookbook【Epub】](https://pan.baidu.com/s/1raqmg7y)
+- [Bootstrap 4 Cookbook](https://pan.baidu.com/s/1qXGpqfa)
 
 
 ## Java
+- [Modern Java in Action](https://pan.baidu.com/s/18DZMskCSoIm2ZC0TXABaRw)
 - [Introduction to Programming in Java, 2nd Edition](https://pan.baidu.com/s/1jYWdREcojgapQE_FhGfDAg)
 - [Effective Java, 3rd Edition](https://pan.baidu.com/s/1gfxqr0v)
 - [Core Java Volume II Advanced Features, 10th Edition](https://pan.baidu.com/s/1slBifdb)
@@ -65,6 +67,12 @@ IT books, mainly in English
 - [Seven Databases in Seven Weeks, 2nd Edition](https://pan.baidu.com/s/1BdAAFbjX41O_LevXYCWSZg)
 - [Mastering PostgreSQL 10](https://pan.baidu.com/s/1DtUQJQ7ND7cJbB61jsiu7Q)
 - [MySQL and JSON](https://pan.baidu.com/s/1lt1yHCeFyhdo35Gft4D8wQ)
+
+
+## Linux
+- [Learning Kali Linux【】](https://pan.baidu.com/s/1pzesYcmeVlV4Cs01VOeqFw)
+- [Mastering Embedded Linux Programming, 2nd Edition](https://pan.baidu.com/s/1dFGlWlj)
+- [Mastering Kali Linux for Advanced Penetration Testing, 2nd Edition](https://pan.baidu.com/s/1boONipD)
 
 
 ## Other
