@@ -2,6 +2,7 @@
 IT books, mainly in English
 
 ## Front-End
+- [Electron in Action](https://pan.baidu.com/s/1QNvFUXtvWGmJpx81YExmmw)
 - [Fullstack Vue](https://pan.baidu.com/s/1c4fvMoYp9W2A3GIjasBI-g)
 - [Fullstack React Native](https://pan.baidu.com/s/1pH7fCLC9IYPDDQq_0ZeJRQ)
 - [Mastering Modular JavaScript](https://pan.baidu.com/s/1gkfLC1IAD64GSbAM6iQhyA)
@@ -28,6 +29,7 @@ IT books, mainly in English
 
 
 ## Java
+- [Spring in Action, 5th Edition](https://pan.baidu.com/s/1zmOg5DP6WQdH9pLVFZ68cQ)
 - [Modern Java in Action](https://pan.baidu.com/s/18DZMskCSoIm2ZC0TXABaRw)
 - [Introduction to Programming in Java, 2nd Edition](https://pan.baidu.com/s/1jYWdREcojgapQE_FhGfDAg)
 - [Effective Java, 3rd Edition](https://pan.baidu.com/s/1gfxqr0v)
@@ -76,5 +78,6 @@ IT books, mainly in English
 
 
 ## Other
+- [Microservices in Action](https://pan.baidu.com/s/1spapgZwerKKBLG2OWoHPgw)
 - [Amazon Web Services in Action, 2nd Edition](https://pan.baidu.com/s/1iNfwqG3y5-jmQtk_Tnvr5Q)
 
