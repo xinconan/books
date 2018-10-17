@@ -78,6 +78,11 @@ IT books, mainly in English
 
 
 ## Other
+- [Head First PMP, 4th Edition](https://pan.baidu.com/s/1O8avj25GmtUUjWKj8r5hdQ)
 - [Microservices in Action](https://pan.baidu.com/s/1spapgZwerKKBLG2OWoHPgw)
 - [Amazon Web Services in Action, 2nd Edition](https://pan.baidu.com/s/1iNfwqG3y5-jmQtk_Tnvr5Q)
+- [Product Roadmaps Relaunched](https://pan.baidu.com/s/1lpn28BUn8WdP1LA_TGDXlg)
+- [Mastering Azure Analytics](https://pan.baidu.com/s/1DMIZ5Kr1p7Rbc9E2kz6W6A)
+- [Designing with Data](https://pan.baidu.com/s/1NQNs2fBZaK3FyYHn7D2jQg)
+- [Efficient R Programming](https://pan.baidu.com/s/1iHbAvCCoerc_rrqT2a9HVw)
 
