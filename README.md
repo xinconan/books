@@ -37,6 +37,7 @@ IT books, mainly in English
 - [Functional Programming in Java](https://pan.baidu.com/s/1qYNuhqc)
 - [Java 9 Concurrency Cookbook, 2nd Edition](https://pan.baidu.com/s/1dFISSX7)
 
+
 ## C && C++
 - [A Tour of C++, 2nd Edition【Epub】](https://pan.baidu.com/s/1cCMT2M6PVqVT4Ltb836S2g)
 - [Algorithms in C, Parts 1-4, 3rd Edition](https://pan.baidu.com/s/1dflxdkkceZgxu-q9BRTzRA)
@@ -44,12 +45,23 @@ IT books, mainly in English
 - [Discovering Modern C++](https://pan.baidu.com/s/1J0vtk_CRP_fhQrXmwidy5g)
 - [Professional C++, 4th Edition](https://pan.baidu.com/s/1elN9fW2F58_Z_7TaxoLI8A)
 
+
 ## .NET
 - [.NET Core in Action](https://pan.baidu.com/s/1KBKNsWFREUJ7LPhJzsj8zA)
 - [Microservices in .NET Core](https://pan.baidu.com/s/12timW5CkQflj4J6fAk0o3g)
 - [Professional C# 7 and .NET Core 2.0](https://pan.baidu.com/s/16ypopKogc1nyjAP87MxVZg)
 - [ASP.NET Core in Action](https://pan.baidu.com/s/1bdTukzrFmU1KcbU99hj67Q)
 - [Concurrency in .NET](https://pan.baidu.com/s/145VoPeJ1QHxdLpTs5ozMyA)
+
+
+## Python
+- [Applied Text Analysis with Python](https://pan.baidu.com/s/1cOsmdgzU-XpYiOfl4jJo3Q)
+- [Web Scraping with Python, 2nd Edition](https://pan.baidu.com/s/1njdZq5lBtKWXMm6cKasaYg)
+- [Python Social Media Analytics](https://pan.baidu.com/s/1X2MKxRpme7lAZq58dFGrEw)
+- [Learn Python 3 the Hard Way](https://pan.baidu.com/s/17RLybciQW2_I_ziGogcACg)
+- [The Python 3 Standard Library by Example](https://pan.baidu.com/s/19vOtAr5EsGfTIp1RRa91Fw)
+- [Python Testing with pytest](https://pan.baidu.com/s/1qJ5L6TpYQPqoECMQVGzNdg)
+- [Python Crash Course](https://pan.baidu.com/s/1CyMvAdgMNCf3pFcWqSPafA)
 
 
 ## Android
@@ -60,10 +72,12 @@ IT books, mainly in English
 - [Android Programming: The Big Nerd Ranch Guide, 3rd Edition](https://pan.baidu.com/s/1qVhLqSDqhYf5_3HdAttd4A)
 - [Head First Android Development, 2nd Edition](https://pan.baidu.com/s/1pLZa4Kr)
 
+
 ## ios
 - [Data Structures and Algorithms in Swift](https://pan.baidu.com/s/1ctBfVEiHMgUJO1PB599eww)
 - [Programming iOS 11](https://pan.baidu.com/s/1o7UChMq)
 - [iOS 11 Swift Programming Cookbook](https://pan.baidu.com/s/1c19rLqK)
+
 
 ## Datebase
 - [Seven Databases in Seven Weeks, 2nd Edition](https://pan.baidu.com/s/1BdAAFbjX41O_LevXYCWSZg)
