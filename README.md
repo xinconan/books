@@ -92,6 +92,9 @@ IT books, mainly in English
 
 
 ## Other
+- [Learning Perl 6](https://pan.baidu.com/s/19_FeYUE-ez0dZYvDZHKn-w)
+- [101 UX Principles](https://pan.baidu.com/s/1RW6tbfrDn-1myC9d3nfzDw)
+- [Learning Malware Analysis](https://pan.baidu.com/s/1-TQHyQBps_E-ONzMDANB6Q)
 - [Head First PMP, 4th Edition](https://pan.baidu.com/s/1O8avj25GmtUUjWKj8r5hdQ)
 - [Microservices in Action](https://pan.baidu.com/s/1spapgZwerKKBLG2OWoHPgw)
 - [Amazon Web Services in Action, 2nd Edition](https://pan.baidu.com/s/1iNfwqG3y5-jmQtk_Tnvr5Q)
