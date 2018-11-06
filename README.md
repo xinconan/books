@@ -77,21 +77,25 @@ IT books, mainly in English
 - [Data Structures and Algorithms in Swift](https://pan.baidu.com/s/1ctBfVEiHMgUJO1PB599eww)
 - [Programming iOS 11](https://pan.baidu.com/s/1o7UChMq)
 - [iOS 11 Swift Programming Cookbook](https://pan.baidu.com/s/1c19rLqK)
+- [iOS and macOS Performance Tuning](https://pan.baidu.com/s/1DdDLrvSwMGLYIgkYccsPfw)
 
 
 ## Datebase
 - [Seven Databases in Seven Weeks, 2nd Edition](https://pan.baidu.com/s/1BdAAFbjX41O_LevXYCWSZg)
 - [Mastering PostgreSQL 10](https://pan.baidu.com/s/1DtUQJQ7ND7cJbB61jsiu7Q)
 - [MySQL and JSON](https://pan.baidu.com/s/1lt1yHCeFyhdo35Gft4D8wQ)
+- [Effective SQL](https://pan.baidu.com/s/18JqJb2Zt9qmrJU9Ot1cpcA)
 
 
 ## Linux
-- [Learning Kali Linux【】](https://pan.baidu.com/s/1pzesYcmeVlV4Cs01VOeqFw)
+- [Learning Kali Linux【Epub】](https://pan.baidu.com/s/1pzesYcmeVlV4Cs01VOeqFw)
 - [Mastering Embedded Linux Programming, 2nd Edition](https://pan.baidu.com/s/1dFGlWlj)
 - [Mastering Kali Linux for Advanced Penetration Testing, 2nd Edition](https://pan.baidu.com/s/1boONipD)
+- [Linux for Developers](https://pan.baidu.com/s/1mbefbgs3JhHhRmEysiZYEw)
 
 
 ## Other
+- [Thoughtful Data Science](https://pan.baidu.com/s/1f23e5q1k6p5bc8Uv0Bf_Xw)
 - [Learning Perl 6](https://pan.baidu.com/s/19_FeYUE-ez0dZYvDZHKn-w)
 - [101 UX Principles](https://pan.baidu.com/s/1RW6tbfrDn-1myC9d3nfzDw)
 - [Learning Malware Analysis](https://pan.baidu.com/s/1-TQHyQBps_E-ONzMDANB6Q)
