@@ -97,6 +97,10 @@ IT books, mainly in English
 
 
 ## Other
+- [Jenkins 2: Up and Running](https://pan.baidu.com/s/1vwwQwd_p-jMx3ofWCB-fJA)
+- [Microservices Patterns](https://pan.baidu.com/s/1AP35ZdtMiIUHsziyN3juhA)
+- [AWS System Administration](https://pan.baidu.com/s/1NidSk3aMbeYc3kCCI_Argw)
+- [Cloud Native Infrastructure](https://pan.baidu.com/s/14H0qqMA_boj9XJKUd5tMYQ)
 - [Thoughtful Data Science](https://pan.baidu.com/s/1f23e5q1k6p5bc8Uv0Bf_Xw)
 - [Learning Perl 6](https://pan.baidu.com/s/19_FeYUE-ez0dZYvDZHKn-w)
 - [101 UX Principles](https://pan.baidu.com/s/1RW6tbfrDn-1myC9d3nfzDw)
