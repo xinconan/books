@@ -90,6 +90,7 @@ IT books, mainly in English
 
 
 ## Linux
+- [Linux in Action](https://pan.baidu.com/s/1NiW_VNh0J2YVS_-s48wYYQ)
 - [Learning Kali Linux【Epub】](https://pan.baidu.com/s/1pzesYcmeVlV4Cs01VOeqFw)
 - [Mastering Embedded Linux Programming, 2nd Edition](https://pan.baidu.com/s/1dFGlWlj)
 - [Mastering Kali Linux for Advanced Penetration Testing, 2nd Edition](https://pan.baidu.com/s/1boONipD)
@@ -97,6 +98,7 @@ IT books, mainly in English
 
 
 ## Other
+- [Deep Learning in Natural Language Processing](https://pan.baidu.com/s/1jqJAlUhtcIjr3GaZ0BlE8w)
 - [Jenkins 2: Up and Running](https://pan.baidu.com/s/1vwwQwd_p-jMx3ofWCB-fJA)
 - [Microservices Patterns](https://pan.baidu.com/s/1AP35ZdtMiIUHsziyN3juhA)
 - [AWS System Administration](https://pan.baidu.com/s/1NidSk3aMbeYc3kCCI_Argw)
