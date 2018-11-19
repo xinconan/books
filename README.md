@@ -98,6 +98,7 @@ IT books, mainly in English
 
 
 ## Other
+- [Get Programming with Go](https://pan.baidu.com/s/1hDVEiSu85qPwMMfkh4Ee0A)
 - [Deep Learning in Natural Language Processing](https://pan.baidu.com/s/1jqJAlUhtcIjr3GaZ0BlE8w)
 - [Jenkins 2: Up and Running](https://pan.baidu.com/s/1vwwQwd_p-jMx3ofWCB-fJA)
 - [Microservices Patterns](https://pan.baidu.com/s/1AP35ZdtMiIUHsziyN3juhA)
