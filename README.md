@@ -98,9 +98,11 @@ IT books, mainly in English
 
 
 ## Other
+- [Mastering TensorFlow 1.x](https://pan.baidu.com/s/1UDPARmGnQS9WdvBK6QADmg#list/path=%2F)
 - [Get Programming with Go](https://pan.baidu.com/s/1hDVEiSu85qPwMMfkh4Ee0A)
 - [Deep Learning in Natural Language Processing](https://pan.baidu.com/s/1jqJAlUhtcIjr3GaZ0BlE8w)
 - [Jenkins 2: Up and Running](https://pan.baidu.com/s/1vwwQwd_p-jMx3ofWCB-fJA)
+- [Network Programmability and Automation](https://pan.baidu.com/s/16RlX5KxaUsjIjENiSn2pxQ)
 - [Microservices Patterns](https://pan.baidu.com/s/1AP35ZdtMiIUHsziyN3juhA)
 - [AWS System Administration](https://pan.baidu.com/s/1NidSk3aMbeYc3kCCI_Argw)
 - [Cloud Native Infrastructure](https://pan.baidu.com/s/14H0qqMA_boj9XJKUd5tMYQ)
@@ -115,4 +117,5 @@ IT books, mainly in English
 - [Mastering Azure Analytics](https://pan.baidu.com/s/1DMIZ5Kr1p7Rbc9E2kz6W6A)
 - [Designing with Data](https://pan.baidu.com/s/1NQNs2fBZaK3FyYHn7D2jQg)
 - [Efficient R Programming](https://pan.baidu.com/s/1iHbAvCCoerc_rrqT2a9HVw)
+- [Digital Image Processing, 4th Global Edition](https://pan.baidu.com/s/10cW3e7_QQE8RaZtnwJe5VQ)
 
