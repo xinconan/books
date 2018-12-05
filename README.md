@@ -2,6 +2,7 @@
 IT books, mainly in English
 
 ## Front-End
+- [Data Wrangling with JavaScript](https://pan.baidu.com/s/1CCrnHtWgysIfDYObCZTatg)
 - [Testing Angular Applications](https://pan.baidu.com/s/1QJE3jb0zg2xumjD9sJkENQ)
 - [Microservices Patterns](https://pan.baidu.com/s/1AP35ZdtMiIUHsziyN3juhA)
 - [Electron in Action](https://pan.baidu.com/s/1QNvFUXtvWGmJpx81YExmmw)
